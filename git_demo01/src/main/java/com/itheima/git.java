@@ -8,5 +8,6 @@ public class git {
         System.out.println("hello--other");
         System.out.println("hello--master");
         System.out.println("hello--push");
+        System.out.println("hello--pull");
     }
 }
